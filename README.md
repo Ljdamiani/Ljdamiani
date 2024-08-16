@@ -2,7 +2,6 @@
 
 <div align="center">
   <a href="https://github.com/Ljdamiani">
-  <img height="180em" src="https://github-readme-stats-leonardos-projects-4cdf3df7.vercel.app/api?username=Ljdamiani&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ljdamiani&layout=compact&langs_count=4&theme=radical"/>
 </div>
 
